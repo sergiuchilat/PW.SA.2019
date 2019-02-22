@@ -1,0 +1,2 @@
+1. Crearea unui robot pentru generarea BrutForce
+2. Validator de parole cu verificarea si afisarea complexitatii parolei
