@@ -1,2 +1,7 @@
 1. Crearea unui robot pentru generarea BrutForce
 2. Validator de parole cu verificarea si afisarea complexitatii parolei
+3. apararea contra XSS
+4. apararea contra CSRF:
+4.1 CSRF token
+4.2  verificare referer
+4.3. varianta voastra la 
